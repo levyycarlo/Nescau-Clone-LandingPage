@@ -823,6 +823,10 @@ li#termos{
         height: auto;
     }
 
+    .container a#logo-nescau-a{
+        position: relative;
+        left: 9px;
+    }
     .column{
         display: flex;
         top: 24%;
@@ -1254,7 +1258,10 @@ li#termos{
         justify-content: space-between;
         box-sizing: border-box;
     }
-
+    .container a#logo-nescau-a{
+        position: relative;
+        left: 2px;
+    }
     .container-geral{
         display: flex;
         height: 100%;
@@ -1627,6 +1634,7 @@ li#termos{
         box-sizing: border-box;
     }
 
+    
     .container-geral{
         display: flex;
         height: 100%;
@@ -1661,6 +1669,7 @@ li#termos{
         width: 44px;
         height: 44px;
         margin-top: 7px;
+        
     }
 
     .container form{
